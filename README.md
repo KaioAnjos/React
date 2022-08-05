@@ -4,4 +4,4 @@
     Também feito para aprofundar os conhecimentos sobre github.
 
  ## Criação de React App
->npx create-react-app **nome do projeto**
+>npx create-react-app *nome do projeto*
